@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sisitha15899&label=Profile%20views&color=0e75b6&style=flat" alt="sisitha15899" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sisitha15899" alt="sisitha15899" /></a> </p>
+
 
 - 🌱 I'm currently learning **React, Next.js, API integration, and Cloud Security basics**
 
@@ -38,6 +38,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sisitha15899&show_icons=true&locale=en" alt="sisitha15899" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sisitha15899&" alt="sisitha15899" /></p>
