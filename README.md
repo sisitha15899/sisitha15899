@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sisitha Poornima</h1>
-<h3 align="center">A passionate FullStacj developer from Sri lanka</h3>
+<h3 align="center">A passionate FullStack developer from Sri lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sisitha15899&label=Profile%20views&color=0e75b6&style=flat" alt="sisitha15899" /> </p>
 
